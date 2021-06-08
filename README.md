@@ -39,9 +39,8 @@ MIT
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/sdca/advdv)
 
 # Deployment
-[Link]()
+[Link](https://obi1002.github.io/16_User-Directory/)
 
-Add screenShot
 # Preview of the App
 * This is how the app looks
-![UserDirectory Screenshot]()
+![UserDirectory Screenshot](./UserDirectory.PNG)
