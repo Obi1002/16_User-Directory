@@ -1,7 +1,7 @@
 {
   "name": "employee-directory",
   "author": "Obi",
-  "homepage": "https://myusername.github.io/my-app",
+  "homepage": "https://obi1002.github.io/16_User-Directory/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -42,6 +42,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.1.0"
+    "gh-pages": "^3.2.0"
   }
 }
